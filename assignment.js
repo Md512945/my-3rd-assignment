@@ -51,6 +51,6 @@
                 longestWord=element;
             }
         }
-        return longestWord
+        return longestWord;
     }
 // -------- megaFriend Function end--------
